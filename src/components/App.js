@@ -1,6 +1,7 @@
 import React from 'react';
-import './index.css'
+import "./styles/App.css"
 import Tabs from "./Components/Tabs";
+
 
 export default function App(){
 
